@@ -6,8 +6,14 @@
 
 Clone the repository to get started:
 
+**Via HTTPS**
 ```bash
-git clone https://github.com/yourusername/thinkrook.git
+git clone https://github.com/thinkrook-dheeraj/backup-repo.git
+```
+
+**Via SSH**
+```bash
+git@github.com:thinkrook-dheeraj/backup-repo.git
 ```
 
 ## Usage
